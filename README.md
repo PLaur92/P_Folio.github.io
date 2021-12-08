@@ -1,7 +1,7 @@
-# P_Folio.github.io
-# Assignment 4
+### Portfolio Prototype
+# Assignment 4_
 
-Student- Parth_ Patel_ 
+Parth_ Patel_ 
 
     Instructor- Richard_ Hildred
 
